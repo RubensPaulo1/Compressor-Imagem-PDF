@@ -19,8 +19,7 @@ Ideal para evitar compartilhar documentos sensíveis e reduzir o tamanho de arqu
 - **Python 3.x**
     [https://www.python.org](https://www.python.org)
 - **Tkinter / ttk** (GUI nativa do Python)
-- **Pillow (PIL)** para manipulação de imagens
-    pip install pillow
+- **Pillow (PIL)** para manipulação de imagens - 'pip install pillow'
 - **Ghostscript** (necessário apenas para compressão de PDFs)
     https://ghostscript.com/releases/gsdnld.html
 
