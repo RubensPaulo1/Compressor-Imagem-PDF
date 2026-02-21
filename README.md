@@ -5,18 +5,17 @@ Ideal para reduzir o tamanho de arquivos antes de enviar por e‑mail ou fazer u
 
 ### Funcionalidades
 
-- **Comprimir PDF** — Ghostscript; gera arquivo com sufixo `_comprimido.pdf`.
-- **Comprimir Imagens (JPG/PNG)** — Pillow (PIL); qualidade ajustável para JPG; sufixo `_comprimido.ext`.
+- **Comprimir PDF** (Usando Ghostscript) vai gerar arquivo `_comprimido.pdf`.
+- **Comprimir Imagens (JPG/PNG)** ( usando Pillow (PIL).
 
 ---
 
 ### Requisitos
 
 - **Python 3.x**
-- **Pillow (PIL)** para imagens
-- **Ghostscript** (apenas para PDF)
-- **Node.js** (apenas para a GUI em React)
-
+- **Pillow** para imagens
+- **Ghostscript**
+- **Node.js**
 ---
 
 ### Como rodar
