@@ -10,7 +10,7 @@ def comprimir_imagem(input_path, output_path, qualidade=40):
 
     # Se for JPG/JPEG
     elif imagem.format in ["JPEG", "JPG"]:
-        imagem.save(output_path, quality=40, optimize=True)
+        imagem.save(output_path, quality=qualidade, optimize=True)
 
     else:
         print("Formato não suportado.")
