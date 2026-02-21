@@ -1,5 +1,8 @@
 ## Compressor de Arquivos (PDF e Imagem)
 
+<img width="1308" height="835" alt="Captura de tela 2026-02-21 131228" src="https://github.com/user-attachments/assets/c41b2225-0bfa-44ea-a249-4f2fe96d7b97" />
+
+
 Aplicação para **comprimir arquivos PDF e imagens (JPG/PNG)**.  
 Ideal para reduzir o tamanho de arquivos antes de enviar por e‑mail ou fazer upload.
 
