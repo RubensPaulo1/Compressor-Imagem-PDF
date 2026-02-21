@@ -20,14 +20,14 @@ Ideal para reduzir o tamanho de arquivos antes de enviar por e‑mail ou fazer u
 
 ### Como rodar
 
-1. **Backend (API)** — na pasta do projeto:
+1. **Backend (API)** na pasta do projeto:
    ```bash
    pip install -r requirements.txt
    python api.py
    ```
    A API sobe em `http://localhost:5000`.
 
-2. **Frontend** — em outro terminal:
+2. **Frontend** em outro terminal:
    ```bash
    cd frontend
    npm install
